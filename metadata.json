@@ -1,0 +1,8 @@
+{
+  "name": "Sora AI Video Watermark Remover",
+  "description": "A premium platform to remove watermarks from Sora AI and TikTok videos with subscription plans and a powerful admin control panel.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
